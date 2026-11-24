@@ -10,17 +10,7 @@
   <img src="https://img.shields.io/badge/B.Tech-CSE-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="B.Tech CSE" />
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20AI-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="Full Stack and AI" />
   <img src="https://img.shields.io/badge/Currently-Learning%20FastAPI-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="Learning FastAPI" />
-</p>🧬 About
-me = {
-    "name": "Sumit Kumar Singh",
-    "role": "Full-Stack Developer",
-    "based": "India",
-    "education": "B.Tech, Computer Science & Engineering",
-    "interests": ["Backend Engineering", "AI", "LLMs", "RAG", "Developer Tools"],
-    "currently_learning": ["Python", "FastAPI", "SQLAlchemy", "PostgreSQL"],
-    "building_with": ["JavaScript", "React", "Next.js", "Node.js", "Python"],
-    "goal": "Build reliable products and intelligent applications",
-}
+
 I enjoy building end-to-end web applications, exploring backend architecture, and applying AI to practical problems. I care about clean interfaces, understandable APIs, and software that solves real user needs.
 <details>
   <summary><b>🌱 How I'm growing</b></summary>
