@@ -1,6 +1,6 @@
 <!-- GitHub Profile README | Sumit Kumar Singh -->
 <p align="center">
-  <a href="https://github.com/Sumeeettt"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:A21517&height=220&section=header&text=Sumit%20Kumar%20Singh&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Developer%20%C2%B7%20AI%20%26%20Backend%20Engineering&descSize=20&descAlignY=66" width="100%" alt="Sumit Kumar Singh — Full-Stack Developer" /></a>
+  <a href="https://github.com/Sumeeettt"><img src="./assets/profile-header.svg" width="100%" alt="Sumit Kumar Singh — Full-Stack Developer" /></a>
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=E5EE4E&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+building+useful+things+with+code.;%3E+learning+backend%2C+AI+and+system+design.;%3E+turning+ideas+into+working+products." width="100%" alt="Developer introduction" />
 </p><p align="center">
   <a href="https://github.com/Sumeeettt"><img src="https://img.shields.io/badge/GitHub-Sumeeettt-A21517?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>

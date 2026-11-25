@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="title description">
+  <title id="title">Sumit Kumar Singh — Full-Stack Developer</title>
+  <desc id="description">Full-Stack Developer focused on AI and backend engineering.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0A0A0A" />
+      <stop offset="1" stop-color="#A21517" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="220" rx="18" fill="url(#background)" />
+  <path d="M0 180C240 140 420 230 680 180s340-20 520-60v100H0Z" fill="#0A0A0A" fill-opacity=".2" />
+  <text x="600" y="98" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" text-anchor="middle">Sumit Kumar Singh</text>
+  <text x="600" y="145" fill="#E5EE4E" font-family="Arial, Helvetica, sans-serif" font-size="25" text-anchor="middle">Full-Stack Developer · AI &amp; Backend Engineering</text>
+</svg>
